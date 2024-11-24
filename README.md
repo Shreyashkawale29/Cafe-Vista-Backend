@@ -1,10 +1,21 @@
 
 # Cafe Vista
 
-
 A Cafe Management project developed using Angular, Spring Boot, and MySQL. There are two main modules: Admin and Customer.
 
+## Project Screenshot
 
+![login_page](https://github.com/user-attachments/assets/0878f72b-d6cd-42b3-9cc2-b9c65ddbebfc)
+
+![signup_page](https://github.com/user-attachments/assets/61332547-6007-4caa-88ee-569ec1a2542a)
+
+![admin_dashboard](https://github.com/user-attachments/assets/62532e80-6e4c-462e-ad0b-a86cf40e499e)
+
+![add_category](https://github.com/user-attachments/assets/fdb0163d-d383-42ee-add0-c1416b57335e)
+
+![reservation_request_userpanel](https://github.com/user-attachments/assets/75db9fcc-6996-4b59-9a53-cbe90af4b084)
+
+![reservations_admin_panel](https://github.com/user-attachments/assets/70ce40df-8740-4084-a596-1d55031b0e1c)
 
 ## Purpose of the Project
 
